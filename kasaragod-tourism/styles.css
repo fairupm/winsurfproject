@@ -17,6 +17,11 @@ header h1 {
     margin: 0;
 }
 
+nav {
+    background-color: #006400; /* Dark Green */
+    padding: 0.5rem 0;
+}
+
 nav ul {
     list-style: none;
     padding: 0;
