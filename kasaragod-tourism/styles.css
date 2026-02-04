@@ -48,6 +48,13 @@ section {
     border-radius: 5px;
 }
 
+section img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 1rem auto;
+}
+
 .beach {
     margin-bottom: 1rem;
 }
